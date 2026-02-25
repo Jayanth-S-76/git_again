@@ -1,0 +1,6 @@
+py file 2 
+a=40
+b=30
+j=a+b
+print(j)
+

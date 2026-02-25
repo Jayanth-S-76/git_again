@@ -1,0 +1,10 @@
+this file name is helo
+cd-->change dictionary
+pwd -->present working dictionary
+ls--> list file
+touch-->to create new file
+mkdir --> to create new folder
+cd .. --> to goto back dictionary
+nano--> helps to edit the file
+cat-->shows the created things inside file
+
